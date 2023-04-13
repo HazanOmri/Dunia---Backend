@@ -235,3 +235,4 @@
 13.4.2023, 19:48:58 - ERROR - Failed to get items | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://" 
 13.4.2023, 19:49:11 - INFO - Server is running on port: 3030 
 13.4.2023, 19:49:28 - INFO - Server is running on port: 3030 
+13.4.2023, 20:17:15 - INFO - Server is running on port: 3030 
