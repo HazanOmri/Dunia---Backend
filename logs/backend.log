@@ -236,3 +236,28 @@
 13.4.2023, 19:49:11 - INFO - Server is running on port: 3030 
 13.4.2023, 19:49:28 - INFO - Server is running on port: 3030 
 13.4.2023, 20:17:15 - INFO - Server is running on port: 3030 
+14.4.2023, 12:59:20 - INFO - Server is running on port: 3030 
+23.4.2023, 16:27:51 - INFO - Server is running on port: 3030 
+25.4.2023, 12:06:16 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":["6438193dc3d9148227d439ee"],"cart":{}} 
+25.4.2023, 12:06:21 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":[],"cart":{}} 
+25.4.2023, 12:06:23 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":["6438193dc3d9148227d439ee"],"cart":{}} 
+25.4.2023, 12:06:24 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":[],"cart":{}} 
+25.4.2023, 12:06:31 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":["6438193dc3d9148227d439ee"],"cart":{}} 
+25.4.2023, 12:07:42 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":[],"cart":{}} 
+25.4.2023, 12:07:45 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":["6438193dc3d9148227d439ee"],"cart":{}} 
+25.4.2023, 12:07:49 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":[],"cart":{}} 
+25.4.2023, 12:07:50 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":["6438193dc3d9148227d439ee"],"cart":{}} 
+25.4.2023, 12:08:00 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":[],"cart":{}} 
+25.4.2023, 12:08:01 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":["6438193dc3d9148227d439ee"],"cart":{}} 
+25.4.2023, 12:08:06 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":[],"cart":{}} 
+25.4.2023, 12:08:07 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":["6438193dc3d9148227d439ee"],"cart":{}} 
+25.4.2023, 12:08:08 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":[],"cart":{}} 
+25.4.2023, 12:08:20 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":["6438193dc3d9148227d439ee"],"cart":{}} 
+25.4.2023, 12:08:22 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":[],"cart":{}} 
+25.4.2023, 12:08:24 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":["6438193dc3d9148227d439ee"],"cart":{}} 
+25.4.2023, 12:08:25 - INFO - user.service update | {"id":"NG6mZO","fullname":"","liked":[],"cart":{}} 
+25.4.2023, 16:52:48 - DEBUG - auth.service - login with username: עדי חזן 
+25.4.2023, 16:52:48 - INFO - User login:  | {"_id":"6436f01e326f293323c805e1","fullname":"עדי חזן","email":"adihazan9@gmail.com","username":"עדי חזן","cart":{"6436f1f1326f293323c805e6":1,"64381234c3d9148227d439ed":1},"liked":[],"isAdmin":true} 
+30.4.2023, 15:48:29 - INFO - Server is running on port: 3030 
+30.4.2023, 15:52:08 - DEBUG - auth.service - login with username: עדי חזן 
+30.4.2023, 15:52:08 - INFO - User login:  | {"_id":"6436f01e326f293323c805e1","fullname":"עדי חזן","email":"adihazan9@gmail.com","username":"עדי חזן","cart":{"6436f1f1326f293323c805e6":1,"64381234c3d9148227d439ed":1},"liked":[],"isAdmin":true} 
