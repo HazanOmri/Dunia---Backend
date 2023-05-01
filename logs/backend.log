@@ -264,3 +264,4 @@
 30.4.2023, 16:28:28 - INFO - Server is running on port: 3030 
 30.4.2023, 16:29:09 - DEBUG - auth.service - login with username: עדי חזן 
 30.4.2023, 16:29:09 - INFO - User login:  | {"_id":"6436f01e326f293323c805e1","fullname":"עדי חזן","email":"adihazan9@gmail.com","username":"עדי חזן","cart":{"6436f1f1326f293323c805e6":1,"64381234c3d9148227d439ed":1},"liked":[],"isAdmin":true} 
+1.5.2023, 22:13:25 - INFO - Server is running on port: 3030 
